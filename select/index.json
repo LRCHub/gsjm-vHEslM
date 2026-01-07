@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "空腹な動物のための",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2026-01-07T16:40:57.100047Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空腹な動物のための",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_空腹な動物のための_おいしくるメロンパン.txt"
+    }
+  ]
+}
